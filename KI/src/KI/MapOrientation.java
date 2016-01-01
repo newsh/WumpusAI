@@ -163,7 +163,7 @@ public class MapOrientation {
 	    	if(current.row == row && current.column == column)
 	    		return current;
 	    }
-	    return new Tile(0,0);  // Wenn das Feld nicht dabei war, wird ein Dummy zurückgegeben. Das ist i.O.
+	    return new Tile(0,0);  // Wenn das Feld nicht dabei war, wird ein Dummy zurückgegeben.
 	}
 	
 	
