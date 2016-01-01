@@ -11,3 +11,5 @@ Run the program and create your own maze with the map generator provided. Build 
 - gold must be surrounded by twinkle
 
 and watch the agent trying to solve the puzzle.
+
+Demo video available [here](https://youtu.be/g7YiXmv8Syo), check [doc](https://bitbucket.org/newsha/wumpusai/src/f03bf6d241a467475d51e2fcd1e0d0a507acdd00/KI/doc.pdf?at=master&fileviewer=file-view-default) for more info.
